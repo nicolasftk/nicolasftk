@@ -3,7 +3,7 @@
 <img src=https://media.tenor.com/EY9-VyGowIMAAAAC/persona5-akira-kurusu.gif width="300">
  
 
-## Me chamo Nicholas, sou Desenvolvedor Back-End! :computer:
+## Eu sou o Nicholas, sou Desenvolvedor Back-End! :computer:
 
 
  
