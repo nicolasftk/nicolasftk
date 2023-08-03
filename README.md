@@ -3,7 +3,7 @@
 <img src=https://media.tenor.com/EY9-VyGowIMAAAAC/persona5-akira-kurusu.gif width="300">
  
 
-## Eu sou o Nicholas, sou Desenvolvedor Back-End! :computer:
+## Me chamo Nicholas (mais conhecido como Nicolas Cage.. só que não 🤣), sou Desenvolvedor Back-End! :computer:
 
 
  
