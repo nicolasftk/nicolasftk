@@ -11,6 +11,7 @@
 <img src=https://media.tenor.com/YjyN4su14BkAAAAC/persona-futaba.gif width="150">
 
 🌱 Atualmente me aperfeiçoando em JavaScript e iniciando meus estudos em SQL.
+
 🎓 Me formando como Desenvolvedor de Software com foco em Back-End pela Cubos Academy.
 
 <img src=https://media.tenor.com/0PxLpkv-3usAAAAC/persona5-ren-amamiya.gif width="150">
