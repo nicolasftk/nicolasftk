@@ -19,8 +19,7 @@
 
 
 ## Git Status
-![Nick GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasftk&show_icons=true&theme=tokyonight)
-
+![nicolasftk's Stats](https://github-readme-stats-iu18ev5u2-nicolasftk.vercel.app/api?username=nicolasftk&count_private=true&include_all_commits=false&show_icons=true&line_height=15&theme=midnight-purple&hide_border=true)
 
 
 ## Você me encontra aqui:
