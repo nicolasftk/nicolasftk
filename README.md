@@ -6,6 +6,8 @@
 - :computer: Desenvolvedor Back-End com foco em JavaScript
 - :mortar_board: Formado na Cubos Academy, curso intensivo de Desenvolvimento de Software
 - :game_die: Viciado em RPG | Persona 5 | Shin Megami Tensei V | Chrono Trigger | Digimon
+<br>
+
 
 ## Habilidades:
 
@@ -21,7 +23,7 @@
 ## Git Status
 ![nicolasftk's Stats](https://github-readme-stats-iu18ev5u2-nicolasftk.vercel.app/api?username=nicolasftk&count_private=true&include_all_commits=false&show_icons=true&line_height=15&theme=midnight-purple&hide_border=true)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-nicolasftk&color=blueviolet&for-the-badge&label=Perfil+Visualizado)
 ## Você me encontra aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/nicholas-fortunato/)
