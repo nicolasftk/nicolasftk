@@ -22,8 +22,8 @@
 
 ## Git Status
 <div align="center">
-<img height=170 src="http://github-nicolas.vercel.app/api?username=nicolasftk&count_private=true&include_all_commits=false&show_icons=true&line_height=15&theme=midnight-purple&hide_border=true"> 
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasftk&layout=compact&theme=midnight-purple&hide_border=true">
+<img height=140 src="http://github-nicolas.vercel.app/api?username=nicolasftk&count_private=true&include_all_commits=false&show_icons=true&line_height=15&theme=midnight-purple&hide_border=true"> 
+<img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasftk&layout=compact&theme=midnight-purple&hide_border=true">
 <br>
 </div>
 <br>
