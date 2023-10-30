@@ -4,6 +4,7 @@
 
 - :man_technologist: Pode me chamar de Nick, ou Nicolas Cage, como preferir 🤣
 - :computer: Desenvolvedor Back-End com foco em JavaScript
+- :books: Atualmente estudando Java
 - :mortar_board: Formado na Cubos Academy, curso intensivo de Desenvolvimento de Software
 - :game_die: Amante de RPG | Persona 5 | Shin Megami Tensei V | Chrono Trigger | Digimon
 </div>
@@ -21,6 +22,7 @@
 <img height=25 src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <img height=25 src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 <br> 
+<img height=25 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img height=25 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img height=25 src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
