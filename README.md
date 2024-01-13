@@ -3,8 +3,7 @@
 <img src=https://media.tenor.com/EY9-VyGowIMAAAAC/persona5-akira-kurusu.gif width="250" align="right" >
 
 - :man_technologist: Pode me chamar de Nick, ou Nicolas Cage, como preferir 🤣
-- :computer: Desenvolvedor Back-End com foco em JavaScript
-- :books: Atualmente estudando Java
+- :computer: Desenvolvedor Back-End com foco em Node.js
 - :mortar_board: Formado na Cubos Academy, curso intensivo de Desenvolvimento de Software
 - :game_die: Amante de RPG | Persona 5 | Shin Megami Tensei V | Chrono Trigger | Digimon
 </div>
